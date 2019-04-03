@@ -30,7 +30,7 @@ def show_entry_fields():
 
 master = Tk()
 
-Label(master, text="Enter call numbers comma seperated (no sapces)").pack()
+Label(master, text="Enter call numbers comma seperated (no spaces)").pack()
 
 e1 = Entry(master)
 e1.pack()
